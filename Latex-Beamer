@@ -1,9 +1,5 @@
-% arguelles v2.3.0
-% author: Michele Piazzai
-% contact: michele.piazzai@uc3m.es
-% license: MIT
 
-% Copied from GitHub: https://github.com/piazzai/arguelles
+% Template Copied from GitHub: https://github.com/piazzai/arguelles
 
 \documentclass[compress,12pt]{beamer}
 
@@ -21,28 +17,19 @@
 
 \frame[plain]{\titlepage}
 
-\Section{Demo}
+\Section{Table of Contents}
 
 \begin{frame}
-      \frametitle{A frame with title and subtitle}
-      \framesubtitle{Subtitle here}
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua \par
-      Itemized list:
+      \frametitle{Table of Contents}      
       \begin{itemize}
-            \item Lorem ipsum
-            \item Dolor sit amet
-                  \begin{itemize}
-                        \item Consectetur
-                        \item Adipiscing elit
-                  \end{itemize}
-            \item Sed do eiusmod
-                  \begin{itemize}
-                        \item Tempor incididunt
-                              \begin{itemize}
-                                    \item Ut labore et dolore
-                                    \item Magna aliqua
-                              \end{itemize}
-                  \end{itemize}
+            \item Introduction
+            \item Challenges Faced by Barclays and Need for Agile
+            \item Agile Implementation
+            \item Agile Practices Now at Barclays
+            \item Impact of Agile Adoption at Barclays
+            \item Future Direction
+            \item Conclusion
+            \item References                  
       \end{itemize}
 \end{frame}
 
